@@ -13,7 +13,7 @@ The tiny downloader output size makes it the perfect tool for embedding/storing 
 - & more!
 
 ## Usage
-in order to use PolyCrypt, head over to the tool website here: https://apollo.m0hx.pw/
+in order to use Apollo Downloader, head over to the tool website here: https://apollo.m0hx.pw/
 
 ## Disclaimer
 I, the creator, am not responsible for any actions and/or damages caused by this software.
